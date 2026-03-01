@@ -167,4 +167,5 @@ function removeMember(index){
 }
 </script>
 </body>
+<div class="logo">The Hive System</div>
 </html>
